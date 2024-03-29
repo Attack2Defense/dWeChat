@@ -21,10 +21,19 @@ password: 123456
 
 ![](./img/connect.png)
 
-2. login
+
+2. pinyin input
+
+![](./img/pinyin.png)
+
+3. login
 
 ![](./img/login.png)
 
-3. chat
+4. chat
 
 ![](./img/chat.png)
+
+5. chinese
+
+![](/img/chinese.png)

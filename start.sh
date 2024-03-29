@@ -10,4 +10,5 @@ x11vnc -storepasswd 123456 /root/wxbot/.vnc/passwd
 
 export DISPLAY=:0 
 x11vnc -forever -display :0 -rfbauth  /root/wxbot/.vnc/passwd &
+fcitx5-configtool
 wechat
